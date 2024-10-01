@@ -1,0 +1,20 @@
+#header{
+    background-color: rgb(163, 225, 225);
+    margin: auto;
+    color: white;
+}
+
+.nav_header{
+    margin: 1%;
+    color: white; /*mengatur warna text*/
+    text-decoration: none;
+} 
+
+a:hover{
+    background-color: rgb(0, 253, 253); /*untuk mengatur warna latarbelakang*/
+    text-decoration: underline; /*Mengatur efek teks*/
+}
+
+a:link{
+    
+}
